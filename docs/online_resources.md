@@ -21,6 +21,29 @@ In this file you can find links to highly valuable online resources to learn abo
 
 * [3Blue1Brown](https://www.youtube.com/@3blue1brown) 
 
-## Electronics
+## Mechanics
+### Aluminum Profiles
+* [Aluminum Extrusions Fundamentals](https://youtu.be/cLrIE6ltErE)
 
-* 
+* [Channel about Aliminum Profiles](https://www.youtube.com/@TheAluminumCarpenter)
+
+* [Mechanical Projects](https://www.youtube.com/@Jeremy_Fielding/videos)
+
+* [Mechanical Engineering Videos](https://www.youtube.com/@EngineeringGoneWild/videos)
+
+
+### 3D Printing
+* [Tutorials](https://www.youtube.com/@Control3D): The most famous Spanish language YouTube channel on 3D printing.
+  
+* [Projects](https://www.youtube.com/@achappel/videos)
+  
+* [Others](https://www.youtube.com/@MakersMuse/videos)
+
+### Design
+
+* [Solidworks](https://www.youtube.com/@robinsarmientocad): Spanish tutorials of Solidworks at any level
+
+## Electronics
+* [Batterys](https://www.youtube.com/@Teponemoslaspilas)
+
+
