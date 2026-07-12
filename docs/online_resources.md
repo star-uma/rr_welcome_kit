@@ -22,6 +22,7 @@ In this file you can find links to highly valuable online resources to learn abo
 * [3Blue1Brown](https://www.youtube.com/@3blue1brown) 
 
 ## Mechanics
+
 ### Aluminum Profiles
 * [Aluminum Extrusions Fundamentals](https://youtu.be/cLrIE6ltErE)
 
