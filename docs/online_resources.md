@@ -11,15 +11,12 @@ In this file you can find links to highly valuable online resources to learn abo
 
 ## Software
 
-* [Fireship](https://www.youtube.com/@Fireship): Youtube channel. Publishes very short videos summarizing the latest news on software and AI. The videos are full of memes and jokes. It used to do many videos explaining tools with titles such as "Java in 100 Seconds". It is recommendable to follow the channel to acquire general knowledge on the tools that exist. 
+* [Fireship](https://www.youtube.com/@Fireship): Youtube channel. Publishes very short videos summarizing the latest news on software and AI. The videos are full of memes and jokes. It used to do many videos explaining tools with titles such as "Java in 100 Seconds". It is recommendable to follow the channel to acquire general knowledge on the tools that exist.
 
-# AI (Artificial Intelligence)
-
-* 
-
-## Mathematics
-
-* [3Blue1Brown](https://www.youtube.com/@3blue1brown) 
+## Communication Protocols
+* [CAN BUS](https://www.youtube.com/watch?v=wAzWtFEzxsQ)
+* [UART](https://www.youtube.com/watch?v=ev7ZWbjMnjg)
+* [I2C](https://youtu.be/B3sInoKRI2s)
 
 ## Mechanics
 
@@ -45,6 +42,11 @@ In this file you can find links to highly valuable online resources to learn abo
 * [Solidworks](https://www.youtube.com/@robinsarmientocad): Spanish tutorials of Solidworks at any level
 
 ## Electronics
-* [Batterys](https://www.youtube.com/@Teponemoslaspilas)
+* [Battery 1](https://www.youtube.com/@Teponemoslaspilas)
+* [Battery 2](https://www.youtube.com/@Dobleingeniero)
+
+## Mathematics
+
+* [3Blue1Brown](https://www.youtube.com/@3blue1brown) 
 
 
